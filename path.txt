@@ -1,0 +1,7 @@
+1.html,css,js
+2.ES,node.js(ES6、npm)
+3.vue、react
+4.git(猴子)
+5.设计
+
+早点用git，写blog
