@@ -1,6 +1,6 @@
 # 2day
 
-今天继续mdn复习html、css、js
+今天继续mdn复习html、css、js，14天还是有点飘了QAQ，一步一步来吧，步子不要迈太大。
 
 ## html
 
