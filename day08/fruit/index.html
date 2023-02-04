@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Favorite fruit start</title>
+    <style>
+        input:invalid {
+            border: 2px dashed red;
+        }
+
+        input:valid {
+            border: 2px solid black;
+        }
+    </style>
+</head>
+
+<body>
+    <form>
+        <label for="choose">Would you prefer a banana or a cherry?</label>
+        <input id="choose" name="i_like" required pattern="banana|cherry">
+        <button>Submit</button>
+    </form>
+    
+    <form method="post" enctype="multipart/form-data">
+        <div>
+          <label for="file">Choose a file</label>
+          <input type="file" id="file" name="myFile">
+        </div>
+        <div>
+          <button>Send the file</button>
+        </div>
+      </form>
+      
+</body>
+
+</html>
